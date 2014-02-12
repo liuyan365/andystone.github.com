@@ -1,22 +1,8 @@
-此仓库为[xwLogic](http://xwlogic.github.io)的个人站点
-------------------------------------
+此Git库为我的博客  [Luke's Homepage](http://geeklu.com)。
+使用Jekyll进行搭建，Jekyll是一个Ruby写的程序，可以将Markdown写的文章通过模板生成最终的Html静态文件。
+博客文章的评论功能使用了Disqus。
 
-本站使用[Jekyll](http://jekyllrb.com/)搭建，可以将[Markdown](http://zh.wikipedia.org/wiki/Markdown)写的文章通过模板生成最终的HTML静态文件。 
+如果你直接拷贝或Fork本Git库作为自己的博客，一定不要忘记删除我写的文章以及修改 `_includes / comments.md` 中的disqus_shortname，以及修改 `_layouts / default.html`中 google analytics的标识  `_gaq.push(['_setAccount', 'UA-12936429-2']);`。
 
-站点的评论留言系统使用了[多说](http://duoshuo.com/)/[Disqus](http://disqus.com/)。
+最后感谢您的配合。
 
-站点模板已经全部通用化，如果使用我的模版，请按照你的信息修改[_config.yml](https://github.com/xwlogic/xwlogic.github.com/blob/master/_config.yml)文件。
-
-站点模版参考[Yonsm.NET](http://github.com/Yonsm/NET)和[Luke's Homepage](https://github.com/kejinlu/kejinlu.github.com)。
-
-
-以上，感谢~
-
--------
-
-###联系方式###
-
-邮箱：[xwlogic@gmail.com](mailto:xwlogic@gmail.com)
-
-
-------------------------------------
