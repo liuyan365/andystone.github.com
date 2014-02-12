@@ -1,0 +1,13 @@
+﻿markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://xwlogic.github.io
+name: xwLogic的个人站点
+author: xwlogic
+email: xwlogic@gmail.com
+duoshuo: xwlogic
+disqus: 
+cnzz: 1000238058
+github: xwlogic
+weibo: 1374790675
+pygments: true
+paginate: 18
